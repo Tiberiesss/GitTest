@@ -1,3 +1,1 @@
-Как дела ? Academica
-
-Hello World!
+Как дела ? Academica Hello World!
